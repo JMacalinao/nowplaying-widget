@@ -24,7 +24,6 @@
   "include": [
     "typings/*.ts",
     "src/**/*.ts*",
-    "scripts/**/*.ts*",
     "server/**/*.ts*",
     "test/**/*.ts*",
     "webpack/**/*.ts*"
